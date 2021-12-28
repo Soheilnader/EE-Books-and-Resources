@@ -11,3 +11,4 @@ My favourite books and resources about Electrical/Electronics engineering
 * [Electronics-tutorials](https://www.electronics-tutorials.ws/)
 * [Circuitstoday](https://www.circuitstoday.com/)
 * [Mahdimz](https://www.mahdimz.ir/)
+* [Eleccircuit](https://www.eleccircuit.com/)
